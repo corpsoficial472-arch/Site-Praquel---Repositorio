@@ -10,7 +10,7 @@ const options = [
     description: "Ideal para comenzar el cuidado diario.",
     price: "20,99 €",
     badge: "PRUÉBALO",
-    checkout: "https://praquel.shop/cart/43065860489312:1",
+    checkout: "https://pago.praquel.shop/cart/43065860489312:1",
   },
   {
     quantity: 2,
@@ -18,7 +18,7 @@ const options = [
     description: "Rutina completa para un uso constante.",
     price: "37,78 €",
     badge: "POPULAR",
-    checkout: "https://praquel.shop/cart/43101788536928:1",
+    checkout: "https://pago.praquel.shop/cart/43101788536928:1",
   },
   {
     quantity: 3,
@@ -26,7 +26,7 @@ const options = [
     description: "Mayor duración para acompañar el progreso.",
     price: "52,97 €",
     badge: "MEJOR VALOR",
-    checkout: "https://praquel.shop/cart/43101789061216:1",
+    checkout: "https://pago.praquel.shop/cart/43101789061216:1",
   },
 ];
 
