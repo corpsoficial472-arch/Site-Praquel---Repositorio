@@ -69,9 +69,9 @@ const productSchema = {
   url: siteUrl,
   image: [`${siteUrl}/images/praquel/producto-principal.jpg`, `${siteUrl}/images/praquel/soluciones-cicatrices.jpg`],
   offers: [
-    { "@type": "Offer", priceCurrency: "EUR", price: "20.99", url: "https://praquel.shop/cart/43065860489312:1", availability: "https://schema.org/InStock" },
-    { "@type": "Offer", priceCurrency: "EUR", price: "37.78", url: "https://praquel.shop/cart/43101788536928:1", availability: "https://schema.org/InStock" },
-    { "@type": "Offer", priceCurrency: "EUR", price: "52.97", url: "https://praquel.shop/cart/43101789061216:1", availability: "https://schema.org/InStock" },
+    { "@type": "Offer", priceCurrency: "EUR", price: "20.99", url: "https://pago.praquel.shop/cart/43065860489312:1", availability: "https://schema.org/InStock" },
+    { "@type": "Offer", priceCurrency: "EUR", price: "37.78", url: "https://pago.praquel.shop/cart/43101788536928:1", availability: "https://schema.org/InStock" },
+    { "@type": "Offer", priceCurrency: "EUR", price: "52.97", url: "https://pago.praquel.shop/cart/43101789061216:1", availability: "https://schema.org/InStock" },
   ],
 };
 
