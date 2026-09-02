@@ -235,7 +235,7 @@ export default function Home() {
         <small>Los resultados pueden variar. Este sitio no sustituye la orientación de un profesional de la salud.</small>
       </footer>
 
-      <a className="mobile-cta" href="https://praquel.shop/cart/43101788536928:1">COMPRAR AHORA</a>
+      <a className="mobile-cta" href="https://pago.praquel.shop/cart/43065860489312:1">COMPRAR AHORA</a>
     </main>
   );
 }
