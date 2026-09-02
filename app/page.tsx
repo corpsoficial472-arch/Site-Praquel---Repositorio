@@ -63,7 +63,7 @@ export default function Home() {
           <a href="#como-usar">Cómo usar</a>
           <a href="#resultados">Resultados</a>
         </nav>
-        <a className="brand" href="#inicio" aria-label="Praquel, inicio">Praquel.</a>
+        <a className="brand" href="#inicio" aria-label="Praquel, inicio">Praquel</a>
         <div className="header-actions">
           <a className="header-link" href="#preguntas">Preguntas</a>
           <a className="header-buy" href="https://pago.praquel.shop/cart/43065860489312:1">
