@@ -54,16 +54,14 @@ button, input { font: inherit; }
   align-items: center;
   justify-content: center;
   min-height: 40px;
-  padding-inline: 19px;
-  border: 2px solid var(--ink);
+  padding: 0 24px;
   border-radius: 999px;
   background: var(--ink);
   color: white;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 800;
   letter-spacing: .05em;
-  visibility: visible;
-  opacity: 1;
+  white-space: nowrap;
 }
 .menu summary { list-style: none; width: 34px; height: 28px; display: grid; align-content: center; gap: 6px; cursor: pointer; }
 .menu summary::-webkit-details-marker { display: none; }
